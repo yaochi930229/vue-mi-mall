@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     好看大师
+    兼职柯南
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
